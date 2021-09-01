@@ -9,7 +9,7 @@ export const StyledBannerContainer = styled.div`
 
 export const StyledBannerImage = styled.img`
   overflow: hidden;
-  width: 100vw;
+  width: 100%;
   height: 99.6vh;
   opacity: 0.6;
   -webkit-background-size: cover;

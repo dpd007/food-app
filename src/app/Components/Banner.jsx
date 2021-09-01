@@ -10,7 +10,7 @@ const Banner = () => {
     <StyledBannerContainer>
       <StyledBannerImage src={FoodImage} alt="Food Image" />
       <StyledBannerCenterTContainer>
-        Welcome to Food App <br /> <Link to="/home">&#8594;</Link>
+        Welcome to Food App <br /> <Link to="/login">&#8594;</Link>
       </StyledBannerCenterTContainer>
     </StyledBannerContainer>
   );
